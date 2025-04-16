@@ -13,8 +13,7 @@ This repo is a snapshot of my QA knowledge, hands-on experience, and learning jo
 - `swagger-api-docs/` – Notes on working with live API documentation using Swagger
 - `mobile-testing/` – Experience testing iOS and Android apps using real devices and BrowserStack
 - `python-learning/` – Python basics and real usage during ERP data validations
-- defect-tracking/jira-bug-tracking.md
-- test-case-management/testrail-usage.md
+- 
 
 ## 🛠️ Tools & Tech
 
