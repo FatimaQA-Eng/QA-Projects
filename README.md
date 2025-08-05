@@ -18,4 +18,4 @@ This repo is a snapshot of my QA knowledge, hands-on experience, and learning jo
 
 ## 🛠️ Tools & Tech
 
-JIRA • TestRail • Postman • Swagger • SQL • Azure Pipelines • Python (in progress) • BrowserStack
+JIRA • TestRail • Postman • Swagger • SQL • Azure Pipelines • Python • BrowserStack 
